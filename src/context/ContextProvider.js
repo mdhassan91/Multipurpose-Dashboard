@@ -10,4 +10,4 @@ export const ContextProvider=({children})=>{
     )
 }
 
-export const useStateContext=()=>useContext();
+export const useStateContext=()=>useContext(); 
